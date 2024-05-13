@@ -1,0 +1,39 @@
+.container {
+  width: 80vw;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+  border: 1px solid grey;
+  border-radius: 2em;
+  padding: 3em;
+}
+
+h1 {
+  margin-block: 1em;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.high {
+  color: red;
+}
+
+.normal {
+  color: green;
+}
+
+.low {
+  color: blue;
+}
+
+button {
+  margin-block: 1em;
+  text-align: center;
+  border: 1px lightgray solid;
+  border-radius: 1em;
+  padding: 8px;
+}
